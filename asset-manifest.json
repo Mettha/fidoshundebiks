@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.24aa225f.css",
-    "main.js": "/static/js/main.16a61cc5.js",
-    "static/js/787.b75db449.chunk.js": "/static/js/787.b75db449.chunk.js",
-    "static/media/snowman-1280.jpg": "/static/media/snowman-1280.b661fd5a068b06eb531d.jpg",
-    "index.html": "/index.html",
-    "main.24aa225f.css.map": "/static/css/main.24aa225f.css.map",
-    "main.16a61cc5.js.map": "/static/js/main.16a61cc5.js.map",
-    "787.b75db449.chunk.js.map": "/static/js/787.b75db449.chunk.js.map"
+    "main.css": "/fidoshundebiks/static/css/main.24aa225f.css",
+    "main.js": "/fidoshundebiks/static/js/main.a0e38eb2.js",
+    "static/js/787.b75db449.chunk.js": "/fidoshundebiks/static/js/787.b75db449.chunk.js",
+    "static/media/snowman-1280.jpg": "/fidoshundebiks/static/media/snowman-1280.b661fd5a068b06eb531d.jpg",
+    "index.html": "/fidoshundebiks/index.html",
+    "main.24aa225f.css.map": "/fidoshundebiks/static/css/main.24aa225f.css.map",
+    "main.a0e38eb2.js.map": "/fidoshundebiks/static/js/main.a0e38eb2.js.map",
+    "787.b75db449.chunk.js.map": "/fidoshundebiks/static/js/787.b75db449.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24aa225f.css",
-    "static/js/main.16a61cc5.js"
+    "static/js/main.a0e38eb2.js"
   ]
 }
